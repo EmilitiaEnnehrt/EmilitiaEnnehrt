@@ -5,8 +5,7 @@ You can call me Emilitia, I'm a freelance artist and an IT service student study
 | :--------: | :----------: | :--------: | :---------------------------: |
 |            | DM           | JavaScript | HTML                          |
 ___
-<p style="text-align: center;"> You can find my portal here:
-
+<p style="text-align: center;"> You can find my portal here:<br>
 [Emilitia Ennehrt](https://emilitiaennehrt.carrd.co/)</p>
 
 Contact me at: 
