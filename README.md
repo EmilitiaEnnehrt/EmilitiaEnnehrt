@@ -1,12 +1,9 @@
 ## ❤ Hello there! ❤
 
 You can call me Emilitia, I'm a freelance artist and an IT service student studying Network and DevOps.
-<div align="center">
 | Advanced   | Intermediate | Beginner   | Others (non-coding languages) |
 | :--------: | :----------: | :--------: | :---------------------------: |
 |            | DM           | JavaScript | HTML                          |
-</div>
-
 ___ 
 <p align=center>You can find my portal here:
 
