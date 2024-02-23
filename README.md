@@ -1,16 +1,19 @@
 ## ❤ Hello there! ❤
 
 You can call me Emilitia, I'm a freelance artist and an IT service student studying Network and DevOps.
+<div align="center">
 | Advanced   | Intermediate | Beginner   | Others (non-coding languages) |
 | :--------: | :----------: | :--------: | :---------------------------: |
 |            | DM           | JavaScript | HTML                          |
-___
-<p align=center>You can find my portal here:<br>
-(https://emilitiaennehrt.carrd.co/)</p>
+</div>
+
+___ 
+<p align=center>You can find my portal here:
+
+[Emilitia Ennehrt](https://emilitiaennehrt.carrd.co/)</p>
 
 Contact me at: 
-@emilitiaennehrt@gmail.com
-
+@emilitiaennehrt@gmail.com<br>
 or @emilitiaennehrt on Discord
 <!--
 **EmilitiaEnnehrt/EmilitiaEnnehrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
