@@ -1,9 +1,9 @@
 ## ❤ Hello there! ❤
 
 You can call me Emilitia, I'm a freelance artist and an IT student studying Network and Front-End.
-| Advanced   | Intermediate | Beginner   | Others (non-coding languages) |
-| :--------: | :----------: | :--------: | :---------------------------: |
-|            | DM           | JavaScript | HTML, CSS                     |
+| Advanced   | Intermediate | Beginner         | Others (non-coding languages) |
+| :--------: | :----------: | :--------------: | :---------------------------: |
+|            | DM           | JavaScript, TOML | HTML, CSS                     |
 ___ 
 You can find my portal here:
 [Emilitia Ennehrt](https://emilitiaennehrt.carrd.co/)
